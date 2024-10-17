@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\learning\\net-inermediate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27D6D8FF-6DCF-4499-81A5-59AFB2B74413}|net-inermediate.csproj|c:\\workspace\\learning\\net-inermediate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D6D8FF-6DCF-4499-81A5-59AFB2B74413}|net-inermediate.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D6D8FF-6DCF-4499-81A5-59AFB2B74413}|net-inermediate.csproj|c:\\workspace\\learning\\net-inermediate\\dataaccess\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D6D8FF-6DCF-4499-81A5-59AFB2B74413}|net-inermediate.csproj|solutionrelative:dataaccess\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D6D8FF-6DCF-4499-81A5-59AFB2B74413}|net-inermediate.csproj|c:\\workspace\\learning\\net-inermediate\\dataaccess\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D6D8FF-6DCF-4499-81A5-59AFB2B74413}|net-inermediate.csproj|solutionrelative:dataaccess\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D6D8FF-6DCF-4499-81A5-59AFB2B74413}|net-inermediate.csproj|c:\\workspace\\learning\\net-inermediate\\dataaccess\\ticketingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D6D8FF-6DCF-4499-81A5-59AFB2B74413}|net-inermediate.csproj|solutionrelative:dataaccess\\ticketingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D6D8FF-6DCF-4499-81A5-59AFB2B74413}|net-inermediate.csproj|c:\\workspace\\learning\\net-inermediate\\dataaccess\\ticketingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D6D8FF-6DCF-4499-81A5-59AFB2B74413}|net-inermediate.csproj|solutionrelative:dataaccess\\ticketingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\workspace\\learning\\net-inermediate\\DataAccess\\EventRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\EventRepository.cs",
+              "ToolTip": "C:\\workspace\\learning\\net-inermediate\\DataAccess\\EventRepository.cs",
+              "RelativeToolTip": "DataAccess\\EventRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:51:32.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\workspace\\learning\\net-inermediate\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\workspace\\learning\\net-inermediate\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwCYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:55:10.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketingRepository.cs",
+              "DocumentMoniker": "C:\\workspace\\learning\\net-inermediate\\DataAccess\\TicketingRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\TicketingRepository.cs",
+              "ToolTip": "C:\\workspace\\learning\\net-inermediate\\DataAccess\\TicketingRepository.cs",
+              "RelativeToolTip": "DataAccess\\TicketingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:16:57.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketingContext.cs",
+              "DocumentMoniker": "C:\\workspace\\learning\\net-inermediate\\DataAccess\\TicketingContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\TicketingContext.cs",
+              "ToolTip": "C:\\workspace\\learning\\net-inermediate\\DataAccess\\TicketingContext.cs",
+              "RelativeToolTip": "DataAccess\\TicketingContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:12:02.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\workspace\\learning\\net-inermediate\\DataAccess\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\Models.cs",
+              "ToolTip": "C:\\workspace\\learning\\net-inermediate\\DataAccess\\Models\\Models.cs",
+              "RelativeToolTip": "DataAccess\\Models\\Models.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:49:23.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
